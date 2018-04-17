@@ -1,4 +1,4 @@
-const BASE = '';
+const BASE = '/ekweb/build';
 export default {
     
     // Liens pour les structures

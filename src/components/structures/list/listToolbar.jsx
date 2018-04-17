@@ -7,6 +7,8 @@ import {
     CircularProgress
 } from 'react-md';
 
+import LINKS from '../../commun/links';
+
 export default class ToolBar extends Component {
 
     render() {
@@ -21,7 +23,7 @@ export default class ToolBar extends Component {
                     }
                 </div>
                 <div className="md-cell md-cell--4" style={{display: 'flex', justifyContent : 'flex-end'}} >
-                    <Link to="/ekeneya/structures/gestion">
+                    <Link to={LINKS.STRUCTURE_GESTION}>
                         <Button flat primary swapTheming>AJOUTER</Button>
                     </Link>
                     <Button style={{marginLeft : 10, marginRight : 10}} icon >file_download</Button>

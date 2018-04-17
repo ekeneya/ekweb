@@ -28,7 +28,6 @@ export default class Template extends Component{
                     <Route path={ITEMS[1].to} exact component={Medicaments} />
                 </Switch> 
 
-                <div style={{height : '100px' , marginTop : 20, backgroundColor:'#eee'}} ></div>
             </NavigationDrawer>
         )
     }
