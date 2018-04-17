@@ -1,0 +1,16 @@
+
+@import 'globals';
+
+@include react-md-everything;
+
+body {
+  margin: 0;
+}
+
+.mb-0{
+  margin-bottom: 0;
+}
+
+.ek-text--success{
+  color : green;
+}
