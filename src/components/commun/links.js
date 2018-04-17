@@ -1,4 +1,4 @@
-const BASE = '/ekeneya';
+const BASE = '';
 export default {
     
     // Liens pour les structures

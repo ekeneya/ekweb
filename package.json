@@ -2,7 +2,7 @@
   "name": "ekeneya",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ekeneya.github.io/ekweb",
+  "homepage": "http://ekeneya.github.io/ekweb/build",
   "dependencies": {
     "axios": "^0.17.1",
     "bootstrap": "^4.0.0",
